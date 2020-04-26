@@ -24,12 +24,13 @@ Para realizar este proyecto necesitas estas cositas:
 
 ### Instalación 🔧
 
-**1-** Una vez hayamos descargado los archivos de la caja y la tapa [desde aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/Caja%20Servo%20SG90%20Tower%20Pro/Archivos)
-Tan solo tenemos que mandarlo a la impresora, imprimirlo, meter el servo y atornillarlo.
+**1-** Una vez hayamos descargado los archivos de la caja y la tapa [desde aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/Caja%20Servo%20SG90%20Tower%20Pro/Archivos) tan solo tenemos que mandarlo a la impresora, imprimirlo, meter el servo y atornillarlo.
 
 **IMPORTANTE**
 La tapa tiene posición, uno de los lados de la caja esta redondeada, por lo que las esquinas de la tapa hay que ponera con las esquinas de la caja.
 
+
+**EJEMPLOS**
 Aqui os dejo unas imagenes de ejemplo de la utilidad que se le puede dar a la caja.
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint_semaforo_tren/Imagenes/Train%20GIF-downsized.gif"></p>
