@@ -9,7 +9,10 @@ Este accesorio esta diseñado para utilizar Leds de 5mm resistencias de 1/4W y c
 
 
 <p align="center">
-  <img width="480" height="480" src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint_semaforo_tren/Imagenes/BCPPrint%20semaforo%203%20%20.jpg"></p>
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint_semaforo_tren/Imagenes/BCPPrint%20semaforo%203%20%20.jpg"></p>
+  
+  <p align="center">
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint_semaforo_tren/Imagenes/Train%20GIF-downsized.gif"></p>
   
   
 Mira la carpeta [**Archivos**](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/PCBPrint_semaforo_tren/Archivos) para descargar el archivo en diferentes formatos.
@@ -30,7 +33,8 @@ Para realizar este proyecto necesitas estas cositas:
 ```
 La resistencia depende de la tensión a la que vayamos a trabajar.
 Una resistencia de 220ohm es la adecuada para trabajar con tensiones a 5V,
-(que es la salida que ofrecen las FPGAs arduinos etc...) si por el contrario vamos a trabajar con en una protoboard con tensiones de 12v deberíamos utilizar una resistencia de 1kohm (1000 ohm)
+(que es la salida que ofrecen las FPGAs arduinos etc...) si por el contrario vamos a trabajar
+en una protoboard con tensiones de 12v deberíamos utilizar una resistencia de 1kohm (1000 ohm)
 Con la resistencia de 1K tambien podemos trabajar con 5V, solamente que la intensidad del brillo del led se vera
 reducida.
 ```
