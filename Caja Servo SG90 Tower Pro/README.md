@@ -47,7 +47,7 @@ Si te gusta el semaforo puedes ver el proyecto [aquí](https://github.com/alteni
 
 ## Agradecimientos 🖇️
 
-* [Obijuan](https://github.com/Obijuan) Este accesorio a sido creado por motivación del [Tutorial 10 de FPGAs libres de Obijuan](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki) y [Freecad](https://github.com/Obijuan/tutoriales-freecad)
+* [Obijuan](https://github.com/Obijuan) Este accesorio a sido creado por motivación del [Tutorial 10 de FPGAs libres de Obijuan](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-10:-ServoBit) y [Freecad](https://github.com/Obijuan/tutoriales-freecad)
 * [FPGAwars](https://github.com/FPGAwars) - Por el esfuerzo y dedicación que esta realizando todo el equipo.
 
 
