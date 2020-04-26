@@ -39,7 +39,7 @@ Aqui os dejo unas imagenes de ejemplo de la utilidad que se le puede dar a la ca
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/Franky/Imagenes/Franky%20GIF.gif"></p> 
   
   
-Si te gusta el semaforo puedes ver el proyecto [aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/PCBPrint_semaforo_tren)
+Si te gusta el semaforo puedes ver el proyecto [aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/PCBPrint_semaforo_tren)<br>
 Si te gusta Franky puedes ver el proyecto [aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/Franky)
 
 
