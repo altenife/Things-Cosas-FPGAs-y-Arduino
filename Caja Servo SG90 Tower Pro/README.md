@@ -33,7 +33,9 @@ La tapa tiene posición, uno de los lados de la caja esta redondeada, por lo que
 Aqui os dejo unas imagenes de ejemplo de la utilidad que se le puede dar a la caja.
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint_semaforo_tren/Imagenes/Train%20GIF-downsized.gif"></p>
-Si te gusta el semaforo puedes ver el proyecto [desde aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/PCBPrint_semaforo_tren)
+  
+  
+Si te gusta el semaforo puedes ver el proyecto [aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/PCBPrint_semaforo_tren)
 
 
 ## Construido con 🛠️
