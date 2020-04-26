@@ -41,7 +41,8 @@ reducida.
 
 ### Instalación 🔧
 
-**1-** Una vez hayamos descargado el archivo [desde aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint_semaforo_tren/Archivos/PCBPrint-semaforo-tren.stl) Podemos seguir las instrucciones del [PCBPrint para led de 5mm](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/PCBPrint_Led_5mm_recto) Ya que el proceso es exactamente el mismo, solo que con 3 led en vez de uno.
+**1-** Una vez hayamos descargado el archivo [desde aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint_semaforo_tren/Archivos/PCBPrint-semaforo-tren.stl)
+Podemos seguir las instrucciones del [PCBPrint para led de 5mm](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/PCBPrint_Led_5mm_recto) Ya que el proceso es exactamente el mismo, solo que con 3 led en vez de uno.
 
 PD: El archivo está diseñado para no equivocarse al conectarlo a una tarjeta como por ejemplo la Alhambra o Arduino, ya que tiene en la parte de abajo una pestaña, que nos guía para no equivocarnos al conectar la masa (-)
 Esta pestaña se puede eliminar cortandola con unos alicates y así, poder utilizarlo en nuestra protoboard.
