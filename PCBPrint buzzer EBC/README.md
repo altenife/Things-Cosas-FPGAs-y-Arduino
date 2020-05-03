@@ -39,7 +39,7 @@ Utilizar una resistencia para la base de entre 2k2 y 15K ya que el led y el buzz
 Para el led y el buzzer puedes poner una resistencia minima de 10 Ohm o de hasta 220 Ohm para no quitarle mucha intensidad al sonido.
 
 **3-**
-Montar los componentes siguiendo el siguiente esquema.Tener en cuenta la polaridad del led y el Buzzer
+Montar los componentes siguiendo el siguiente esquema. Tener en cuenta la polaridad del led y el Buzzer
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20buzzer%20EBC/Imagenes/PCBPrint%20buzzer%20EBC%20Pistas%20dibujadas.jpg"></p>
   
