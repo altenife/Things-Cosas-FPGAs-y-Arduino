@@ -19,7 +19,7 @@ Mira la carpeta [**Archivos**](https://github.com/altenife/Things-Cosas-FPGAs-y-
 Para realizar este proyecto necesitas estas cositas:
 
 - Impresora 3D ya sea de tipo FDM o SLA<br/>
-- Buzzer 5-12V<br/>
+- Buzzer 3-5V<br/>
 - Led de 5mm<br/>
 - 2 Resistencias (depende del transistor que utilices)<br/>
 - Conector macho macho en ángulo recto para placas PCB<br/>
@@ -29,13 +29,14 @@ Para realizar este proyecto necesitas estas cositas:
 ### Instalación 🔧
 
 **1-** Una vez hayamos descargado el archivo .STL [desde aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20buzzer%20EBC/Archivos/PCBPrint%20buzzer%20EBC.stl)
-y lo tengamos impreso en 3D lo siguiente que debemos hacer es buscar un transistor con encapsulado TO-92 y el siguiente patillaje, este requisito es obligatorio pues la pieza esta diseñada para transistores con patillaje EBC.
+y lo tengamos impreso en 3D lo siguiente que debemos hacer es buscar un transistor NPN con encapsulado TO-92 y el siguiente patillaje, este requisito es obligatorio pues la pieza esta diseñada para transistores con patillaje EBC.
 
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20buzzer%20EBC/Imagenes/Transistor%20EBC.jpg"></p>
 
 **2-**
 Utilizar una resistencia para la base de entre 2k2 y 15K ya que el led y el buzzer juntos no consumen mas de 45 Miliamperios (calcular con el datasheed del transistor que utilices)
+Para el led y el buzzer puedes poner una resistencia minima de 10 Ohm o de hasta 220 Ohm para no quitarle mucha intensidad al sonido.
 
 **3-**
 Montar los componentes siguiendo el siguiente esquema.Tener en cuenta la polaridad del led y el Buzzer
