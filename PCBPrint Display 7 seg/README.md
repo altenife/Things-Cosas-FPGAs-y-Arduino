@@ -18,16 +18,28 @@ Mira la carpeta [**Archivos**](https://github.com/altenife/Things-Cosas-FPGAs-y-
 Para realizar este proyecto necesitas estas cositas:
 
 - Impresora 3D ya sea de tipo FDM o SLA<br/>
-- Display de 7 segmentos<br/>
+- Display de 7 segmentos de  13x19mm <br/>
 - Conector macho macho en ángulo recto para placas PCB<br/>
-- Un poquito de cable, o alambre fino.<br/>
+- Un poquito de cable.<br/>
 - Estaño y soldador.<br/>
 
 ### Instalación 🔧
 
 **1-** Una vez hayamos descargado el archivo .STL [desde aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Archivos/PCBPrint%20display%207%20segmentos.stl)
-y lo tengamos impreso en 3D lo siguiente que debemos hacer es montar un display de 7 segmentos.
-
+y lo tengamos impreso en 3D lo siguiente que debemos hacer es montar un display de 7 segmentos de 13x19mm y una fila de 9 pies de conexión para PCB de ángulo recto.
+<p align="center">
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%207%20segmentos%20impreso.jpg"></p>
+  
+**2-** Despues lo cableamos, el cableado es muy intuitivo, solo hay que ir en linea recta, todos los cables siguen su trayectoria auqneu haya algunos que se crucen, pero lo haran en linea recta.
+  El único cable que se cruza es uno de los 2 negativos que lleva, que pasa por encima (o por debajo, depende de cual pongais primero) de otros 3 cables, el punto, tambien se cruza, que pasa por encima de otro, pero es una conexion muy intuitiva.
+  
+<p align="center">
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%207%20segmentos%20cableado.jpg"></p>
+  
+**3-** OJO muchisima atención, Este PCBPrint no lleva resistencias, yo lo he conectado directamente a la FPGA Alhambra II porque en sus salidas de 5V lleva una resistencia de 200oHm pero si lo vais a usar en una protoboard, o en una Arduino, debereis de ponerle unas resistencias para proteger el display, ya que directamente con 5V se rompen.
+<p align="center">
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%20encendido.jpg"></p>
+  
 
 ## Construido con 🛠️
 
@@ -50,7 +62,7 @@ y lo tengamos impreso en 3D lo siguiente que debemos hacer es montar un display 
 ## Expresiones de Gratitud 🎁
 
 * Si te gusta, comparte este proyecto 📢
-* Mencioname si mejoras este proyecto 🤓.
+* Mencioname si mejoras este proyecto 🤓. 
 * Mencioname si utilizas este PCBPrint en tus proyectos.
 
 
