@@ -18,9 +18,9 @@ Mira la carpeta [**Archivos**](https://github.com/altenife/Things-Cosas-FPGAs-y-
 Para realizar este proyecto necesitas estas cositas:
 
 - Impresora 3D ya sea de tipo FDM o SLA<br/>
-- Display de 7 segmentos de  13x19 <br/>
+- Display de 7 segmentos de  13x19mm <br/>
 - Conector macho macho en ángulo recto para placas PCB<br/>
-- Un poquito de cable, o alambre fino.<br/>
+- Un poquito de cable.<br/>
 - Estaño y soldador.<br/>
 
 ### Instalación 🔧
