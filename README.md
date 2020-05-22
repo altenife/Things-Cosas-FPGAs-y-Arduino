@@ -11,6 +11,13 @@ Cosas útiles para trastear con las FPGAs y Arduino para imprimir en 3D
 
 <p align="center">
   <img src="https://github.com/altenife/PCbPrints/blob/master/PCBPrint_Led_5mm_recto/Imagenes/PCBPrint%20led%205mm%20recto%20.jpg"></p>
+  
+<p align="center">
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%207%20segmentos%20collage.jpg"></p>
+  
+<p align="center">
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20buzzer%20EBC/Imagenes/PCBPrint%20buzzer%20EBC.jpg"></p>  
+  
 
 ## Proyectos construidos con 🛠️
 
