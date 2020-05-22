@@ -42,11 +42,14 @@ Para realizar este proyecto necesitas estas cositas:
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%207%20segmentos%20cableado.jpg"></p>
   
-**3-**
-Tanto el diseño con resistencias como el diseño sin resistencias, utilizan la misma configuración para los segmentos, empezamos por el segmento A en la izquierda del todo, seguimos por el B, C... y por ultimo el negativo (GND)
+**3-** Tanto el diseño con resistencias como el diseño sin resistencias, utilizan la misma configuración para los segmentos, empezamos por el segmento A en la izquierda del todo, seguimos por el B, C... y por ultimo el negativo (GND)
 
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%20display%207%20segmentos%20resistencia%20marcado.jpg"></p>
+  
+**4-** Aquí podeis ver como queda montao en una protoboard.  
+<p align="center">
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%20display%207%20seg%20en%20protoboard.jpg"></p>
   
 
 ## Construido con 🛠️
