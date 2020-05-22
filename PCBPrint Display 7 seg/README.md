@@ -8,9 +8,11 @@ Esto es lo que te vas a encontrar en este proyecto. Con este accesorio puedes mo
 **Existen 2 versiones**
 Una version sin resistencias y otra con resistencias, eso ya depende del uso que le deis. Esta PCBPrint es compatible tanto para displays de anodo comun, o de catodo comun, tan solo teneis que adaptar las resistencias a lo que requiera cada conexion poniendo puentes o resistencias de 0ohm donde corresponda.
 
+Version sin resistencias.
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%207%20segmentos%20collage.jpg"></p>
   
+Version con resistencias.
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%20display%207%20segmentos%20resistencia%20collage.jpg"></p>  
 
@@ -30,7 +32,7 @@ Para realizar este proyecto necesitas estas cositas:
 
 ### Instalación 🔧
 
-**1-** Una vez hayamos descargado el archivo .STL y lo tengamos impreso en 3D lo siguiente que debemos hacer es montar un display de 7 segmentos de 13x19mm y una fila de 9 pies de conexión para PCB de ángulo recto. En mi caso he impreso la versión sin resistencias, si utilizais la version con resistencias, soldais las resistencias segun proceda, si es de anodo o de catodo comun vuestro display.
+**1-** Una vez hayamos descargado el archivo .STL y lo tengamos impreso en 3D lo siguiente que debemos hacer es montar un display de 7 segmentos de 13x19mm y una fila de 9 pines de conexión para PCB de ángulo recto. En mi caso he impreso la versión sin resistencias, si utilizais la version con resistencias, soldais las resistencias segun proceda, si es de anodo o de catodo comun vuestro display.
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%207%20segmentos%20impreso.jpg"></p>
   
